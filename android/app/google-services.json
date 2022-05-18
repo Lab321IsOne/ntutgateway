@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "642268045619",
+    "firebase_url": "https://ntutlab321-23ddb.firebaseio.com",
+    "project_id": "ntutlab321-23ddb",
+    "storage_bucket": "ntutlab321-23ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642268045619:android:46b174d7eee48bc8689e46",
+        "android_client_info": {
+          "package_name": "com.example.firevisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642268045619-9avl930t3u7q8f7mm2jrk2rla1pj8vsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtn1Ja4HioMTrdzNzRqLG9z4GgSQLSkvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642268045619-9avl930t3u7q8f7mm2jrk2rla1pj8vsn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "642268045619-vsb5880afni5s6pe2lc8kushij6ud7rv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firevisor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
